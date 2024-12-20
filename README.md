@@ -1,4 +1,1 @@
-- 👋 Hi, I’m jamshid
-- 🌱 I’m currently learning javascript
 - 📫 How to reach me: [Telegram](https://t.me/norphine)
-- 😄 Pronouns: he/him
